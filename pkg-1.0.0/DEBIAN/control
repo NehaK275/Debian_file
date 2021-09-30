@@ -1,0 +1,7 @@
+Package: mytest
+Version: 1.0.0
+Depends: gcc
+Architecture: all
+Maintainer: Neha
+Description: Print a message
+
